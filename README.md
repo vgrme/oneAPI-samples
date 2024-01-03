@@ -83,6 +83,7 @@ The oneAPI-sample repository is organized by high-level categories.
 ## Platform Validation
 
 Samples in this release are validated on the following platforms. 
+(Note: Intel® oneAPI AI Analytics Toolkit Operator is validated on Red Hat Openshift - https://github.com/IntelAI/aikit-operator/blob/main/quickstart_guide/Intel_oneAPI_AI_Analytics_Toolkit_Operator_README.md)
 
 ### Ubuntu 22.04	
 Intel(R) Xeon(R) Platinum 8352Y CPU @ 2.20GHz  
